@@ -1,0 +1,35 @@
+body {
+  background-image: linear-gradient(pink, purple);
+
+}
+
+.facts {
+  color: white;
+  font-style: italic;
+  font-size: 180%;
+}
+
+.quotes {
+  font-size: 200%;
+  color: dimgray;
+}
+
+p {
+  font-size: 140%;
+  color: dimgray;
+}
+
+.eyes{
+  color: green;
+  font-style: italic;
+  font-size: 200%;
+}
+
+.pics{
+  color: red;
+  font-size: 150%;
+}
+
+nav li{
+  display: inline-block;
+}
